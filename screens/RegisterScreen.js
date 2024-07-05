@@ -168,7 +168,7 @@ export default function RegisterScreen() {
                 fontSize: 16,
                 fontWeight: 'bold',
               }}>
-              Login
+              Register
             </Text>
           </Pressable>
 
