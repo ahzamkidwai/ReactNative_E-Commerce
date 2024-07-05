@@ -141,7 +141,7 @@ export default function LoginScreen() {
 
           <Pressable
             onPress={() => {
-              navigation.navigate('SignUp').navigate('Register');
+              navigation.navigate('Register');
             }}
             style={{marginTop: 15}}>
             <Text style={{textAlign: 'center', color: 'gray', fontSize: 16}}>
